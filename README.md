@@ -12,8 +12,8 @@ As shown above, the circle center is not projected to the centroid of the distor
 ## Entire code will be released after the end of blind review period.
 
 ## Dependency
-    - [ceres-solver](http://ceres-solver.org/index.html)
-    - [Eigen3](https://eigen.tuxfamily.org/dox/index.html)
+    - <a href="http://ceres-solver.org/index.html">ceres-solver</a>
+    - <a href="http://ceres-solver.org/index.html">Eigen3</a>
     - opencv
 <!-- 
 ## Experiments
