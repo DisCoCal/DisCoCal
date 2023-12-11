@@ -20,7 +20,7 @@ Our method shows the best performance and significantly low standard deviation.
 
 ### Reprojection error comparison in synthetic images
 <img src="./Figs/Rep.png" width="700" height="480"/>
-Unlike other circular pattern methods, our method is unbiased, resulting in near-zero errors regardless of distortion and radius changes.
+With known intrinsic matrix, we evaluated the reprojection error to verify the projection model is well defined. Unlike other circular pattern methods, our method is unbiased, resulting in near-zero errors regardless of distortion and radius changes.
 
 
 ### Why Circular pattern?
