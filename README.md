@@ -13,9 +13,10 @@ As shown above, the circle center is not projected to the centroid of the distor
 
 ## Dependency
 
-- [ceres-solver](http://ceres-solver.org/index.html)
+- [Ceres-Solver](http://ceres-solver.org/index.html)
 - [Eigen3](https://eigen.tuxfamily.org/dox/index.html)
 - opencv
+
 <!-- 
 ## Experiments
 
