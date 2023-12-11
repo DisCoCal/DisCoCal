@@ -11,6 +11,11 @@ As shown above, the circle center is not projected to the centroid of the distor
 
 ## Entire code will be released after the end of blind review period.
 
+## Dependency
+    - [ceres-solver](http://ceres-solver.org/index.html)
+    - [Eigen3](https://eigen.tuxfamily.org/dox/index.html)
+    - opencv
+<!-- 
 ## Experiments
 
 ### Comparision between existing methods
@@ -26,5 +31,5 @@ With known intrinsic matrix, we evaluated the reprojection error to verify the p
 ### Why Circular pattern?
 
 The circular pattern has subpixel-level accuracy to detect the control points and is robust to boundary blur effects. These advantages are maximized in thermal-infrared cameras suffering from boundary blur effect due to thermal conduction.
-![boundary_blur](./Figs/boundary_blur.png)
+![boundary_blur](./Figs/boundary_blur.png) -->
 
