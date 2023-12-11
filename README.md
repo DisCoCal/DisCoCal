@@ -2,7 +2,7 @@
 
 We proposed an unbiased estimator for centroid of distorted conic by leveraging "moment" from probability theory.
 
-<img src="./Figs/overview.png" width="600" height="380"/>
+![overview](./Figs/overview2.png)
 
 
 As shown above, the circle center is not projected to the centroid of the distorted ellipse under perspective transformation and distortion. Without considering geometery of the distorted ellipse, existing circular pattern-based calibration methods are biased, which leads low calibration accuracy than a checkerboard pattern. 
