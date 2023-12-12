@@ -9,7 +9,8 @@ As shown above, the circle center is not projected to the centroid of the distor
 
 **Our unbiased estimator completes the missing piece in the conic-based calibration pipeline and outperforms the checkerboard pattern-based calibration.**
 
-## Entire code will be released after the end of blind review period.
+<span style="color:blue">## Entire code will be released after the end of blind review period.</span>.
+
 
 ## Dependency
 
