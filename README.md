@@ -1,14 +1,13 @@
 # DisCoCal: Unbiased Estimator for Distorted Conics in Camera Calibration
-## Entire code will be released after the end of blind review period.
-## Description
-We proposed an unbiased estimator for centroid of distorted conic by leveraging "moment" from probability theory.
+## Entire code will be released after the end of the blind review period.
+## Project Insight
 
 ![overview](./Figs/overview3.png)
 
+The center of the circle doesn't match up with the distorted ellipse under perspective transformation and distortion! Classic circular pattern-based calibration methods fall short because they ignore the weird shape of the distorted ellipse, leading to bias and less accurate calibration compared to the checkerboard pattern.
 
-As shown above, the circle center is not projected to the centroid of the distorted ellipse under perspective transformation and distortion. Without considering geometery of the distorted ellipse, existing circular pattern-based calibration methods are biased, which leads low calibration accuracy than a checkerboard pattern. 
-
-**Our unbiased estimator completes the missing piece in the conic-based calibration pipeline and outperforms the checkerboard pattern-based calibration.**
+### Our Game-Changer: Unbiased Estimator
+**Our unbiased estimator completes the missing piece in the conic-based calibration pipeline and outperforms the checkerboard pattern-based calibration!**
 
 
 ## Dependency
